@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Anish Bhaduri</h1>
 <h3 align="center">Currently typing in the template coz I have an underdeveloped profile-may update later!</h3>
 
-- 🌱 I’m currently learning **Css**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **HTML**
+- 💬 Ask me about **HTML,C**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
