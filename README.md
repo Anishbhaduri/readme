@@ -4,10 +4,10 @@
 - 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **HTML,C**
-- 
+  
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">https://www.linkedin.com/in/anish-bhaduri-25689b259?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1ZPcgkdfRimlOTdPhVyH4g%3D%3D
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
