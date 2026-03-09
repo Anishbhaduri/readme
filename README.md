@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anish Bhaduri</h1>
-<h3 align="center">A Third Year Engineering I'm a third-year student who loves to learn, create and explore new things</h3>
+<h3 align="center">A Final Year Engineering student who loves to learn, create and explore new things</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **HTML , CSS , React , Node**
+- 💬 Ask me about **HTML , CSS , React , Node Js**
 
 - 📫 How to reach me **anishbhaduri100@gmail.com**
 
